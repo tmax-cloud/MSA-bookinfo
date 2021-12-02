@@ -1,6 +1,6 @@
 package com.example.bookinfo.controller;
 
-import com.example.bookinfo.model.BookInfo;
+import com.example.bookinfo.model.Book;
 import com.example.bookinfo.repo.BookRepo;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
@@ -27,11 +27,11 @@ public class BookController {
     public void live(){}
 
     @GetMapping
-    public List<BookInfo> getBook(){
+    public List<Book> getBook(){
         return bookRepo.findAll();
     }
     @PostMapping
-    public BookInfo createBook(@RequestBody BookInfo bookInfo){
-        return bookRepo.save(bookInfo);
+    public Book createBook(@RequestBody Book book){
+        return bookRepo.save(book);
     }
 }

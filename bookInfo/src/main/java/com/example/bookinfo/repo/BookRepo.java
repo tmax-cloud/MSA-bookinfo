@@ -1,7 +1,8 @@
 package com.example.bookinfo.repo;
 
-import com.example.bookinfo.model.BookInfo;
+import com.example.bookinfo.model.Book;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.data.jpa.repository.JpaRepository;
-
-public interface BookRepo extends JpaRepository<BookInfo, Integer> {
+@Qualifier("BookRepo")
+public interface BookRepo extends JpaRepository<Book, Integer> {
 }
