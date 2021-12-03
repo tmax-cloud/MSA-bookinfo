@@ -1,8 +1,0 @@
-/Users/hayeon/Desktop/tmax/test-msa/my-branch/MSA-bookinfo/bookInfo/src/main/java/com/example/bookinfo/BookInfoApplication.java
-/Users/hayeon/Desktop/tmax/test-msa/my-branch/MSA-bookinfo/bookInfo/src/main/java/com/example/bookinfo/model/Book.java
-/Users/hayeon/Desktop/tmax/test-msa/my-branch/MSA-bookinfo/bookInfo/src/main/java/com/example/bookinfo/config/SampleConfiguration.java
-/Users/hayeon/Desktop/tmax/test-msa/my-branch/MSA-bookinfo/bookInfo/src/main/java/com/example/bookinfo/service/KafkaConsumer.java
-/Users/hayeon/Desktop/tmax/test-msa/my-branch/MSA-bookinfo/bookInfo/src/main/java/com/example/bookinfo/config/KafkaConfiguration.java
-/Users/hayeon/Desktop/tmax/test-msa/my-branch/MSA-bookinfo/bookInfo/src/main/java/com/example/bookinfo/controller/BookController.java
-/Users/hayeon/Desktop/tmax/test-msa/my-branch/MSA-bookinfo/bookInfo/src/main/java/com/example/bookinfo/config/SwaggerConfiguration.java
-/Users/hayeon/Desktop/tmax/test-msa/my-branch/MSA-bookinfo/bookInfo/src/main/java/com/example/bookinfo/repo/BookRepo.java
