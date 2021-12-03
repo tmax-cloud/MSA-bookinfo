@@ -1,7 +1,0 @@
-com/example/bookinfo/config/SwaggerConfig.class
-com/example/bookinfo/service/KafkaConsumer.class
-com/example/bookinfo/repo/BookRepo.class
-com/example/bookinfo/config/KafkaConfiguration.class
-com/example/bookinfo/controller/BookController.class
-com/example/bookinfo/BookInfoApplication.class
-com/example/bookinfo/model/Book.class
